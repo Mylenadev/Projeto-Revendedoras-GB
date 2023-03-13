@@ -1,0 +1,26 @@
+img{
+   width:  120px;
+   height: 60px;
+}
+
+div{
+   width: 120px;
+   height: 50px;
+   display: inline-block;
+}
+
+#fx1{ 
+    background-color: rgba(0, 128, 0, 0.549);
+}
+
+#fx2{
+    background-color: rgba(0, 128, 0, 0.549);
+}
+
+#fx3{
+    background-color: rgba(0, 128, 0, 0.549);
+}
+
+#fx4{
+    background-color: rgba(0, 128, 0, 0.549);
+}
